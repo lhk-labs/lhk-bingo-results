@@ -1,0 +1,158 @@
+{
+  "roundId": 5,
+  "timestamp": 1784134840,
+  "chainId": 97,
+  "seed": "0xa6bea4b074483474583c6d04143fdda59d367e3f212e17dcad89ff5217b7aa68",
+  "commitment": "0xaf8ed60f1c1d86520308dcf2e61702a2779230629c1dc4990dd5578cb7980c78",
+  "contracts": {
+    "bingo": "0x850C004207733B112aBc1B7026285874f669fc71",
+    "token": "0xb97283925284Eb9133167Ff1Db2631c7211E6e34"
+  },
+  "pool": 100000,
+  "thresholds": {
+    "silver": 100000,
+    "gold": 500000,
+    "platinum": 2000000,
+    "diamond": 10000000
+  },
+  "escalationEnabled": false,
+  "drawOrder": [
+    8,
+    13,
+    71,
+    57,
+    36,
+    66,
+    23,
+    61,
+    18,
+    33,
+    65,
+    22,
+    40,
+    64,
+    38,
+    73,
+    34,
+    75,
+    68,
+    4,
+    48,
+    50,
+    53,
+    14,
+    51,
+    30,
+    42,
+    62,
+    39,
+    67,
+    37,
+    58,
+    74,
+    45,
+    55,
+    26,
+    29,
+    56,
+    43,
+    31,
+    60,
+    21,
+    16,
+    46,
+    69,
+    32,
+    24,
+    3,
+    35,
+    11,
+    44,
+    47,
+    1,
+    25,
+    70,
+    6,
+    12,
+    72,
+    17,
+    59,
+    5,
+    63,
+    27,
+    19,
+    49,
+    20,
+    54,
+    41,
+    7,
+    2,
+    15,
+    9,
+    52,
+    10,
+    28
+  ],
+  "holders": [
+    {
+      "wallet": "0x3260e8e22e5D38677e765A076Ec1eec7BC506e84",
+      "balanceTokens": 15325000,
+      "cards": 8
+    },
+    {
+      "wallet": "0x1022CFF8C4a53078F6894122025BBF1002686E07",
+      "balanceTokens": 765000,
+      "cards": 2
+    },
+    {
+      "wallet": "0x93AEe33D5eD45695ab14602C00254Ac5C596cDE8",
+      "balanceTokens": 140000,
+      "cards": 1
+    }
+  ],
+  "prizes": [
+    {
+      "prize": "Line 1",
+      "winner": "0x3260e8e22e5D38677e765A076Ec1eec7BC506e84",
+      "cardIndex": 4,
+      "completionCall": 47,
+      "amount": 5000
+    },
+    {
+      "prize": "Line 2",
+      "winner": "0x3260e8e22e5D38677e765A076Ec1eec7BC506e84",
+      "cardIndex": 0,
+      "completionCall": 52,
+      "amount": 5000
+    },
+    {
+      "prize": "Line 3",
+      "winner": "0x3260e8e22e5D38677e765A076Ec1eec7BC506e84",
+      "cardIndex": 1,
+      "completionCall": 25,
+      "amount": 5000
+    },
+    {
+      "prize": "Line 4",
+      "winner": "0x3260e8e22e5D38677e765A076Ec1eec7BC506e84",
+      "cardIndex": 1,
+      "completionCall": 32,
+      "amount": 5000
+    },
+    {
+      "prize": "Line 5",
+      "winner": "0x1022CFF8C4a53078F6894122025BBF1002686E07",
+      "cardIndex": 0,
+      "completionCall": 43,
+      "amount": 5000
+    },
+    {
+      "prize": "Full House",
+      "winner": "0x93AEe33D5eD45695ab14602C00254Ac5C596cDE8",
+      "cardIndex": 0,
+      "completionCall": 69,
+      "amount": 65000
+    }
+  ],
+  "reserve": 10000
+}
