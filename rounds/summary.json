@@ -1,18 +1,18 @@
 {
   "totalRounds": 10,
-  "lastUpdated": 1786233638,
+  "lastUpdated": 1786837257,
   "leaderboard": [
     {
       "wallet": "0x3260e8e22e5D38677e765A076Ec1eec7BC506e84",
-      "prizesWon": 48,
-      "coinsWon": 2725409,
+      "prizesWon": 45,
+      "coinsWon": 2748789,
       "fullHouses": 11
     },
     {
       "wallet": "0x93AEe33D5eD45695ab14602C00254Ac5C596cDE8",
-      "prizesWon": 10,
-      "coinsWon": 433699,
-      "fullHouses": 3
+      "prizesWon": 11,
+      "coinsWon": 411309,
+      "fullHouses": 2
     },
     {
       "wallet": "0x1022CFF8C4a53078F6894122025BBF1002686E07",
@@ -39,13 +39,8 @@
     },
     {
       "roundId": 7,
-      "wallet": "0x93AEe33D5eD45695ab14602C00254Ac5C596cDE8",
-      "amount": 32500
-    },
-    {
-      "roundId": 7,
       "wallet": "0x3260e8e22e5D38677e765A076Ec1eec7BC506e84",
-      "amount": 32500
+      "amount": 65715
     },
     {
       "roundId": 6,
